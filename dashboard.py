@@ -1,4 +1,4 @@
-"""
+."""
 dashboard.py - Main Dashboard Screen
 Shows summary cards: sugar, water, exercise, BMI
 Includes weekly blood sugar line chart
